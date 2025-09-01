@@ -1,0 +1,16 @@
+.experience {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+input, textarea, button {
+  display: block;
+  margin: 5px 0;
+  padding: 5px;
+  width: 100%;
+}
+button {
+  width: auto;
+  padding: 8px 12px;
+  cursor: pointer;
+}
